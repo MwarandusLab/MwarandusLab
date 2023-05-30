@@ -1,7 +1,7 @@
 # <div align="center">Hi there 👋 Welcome to Mwarandus Lab</div>
 <div  align="justify">Welcome to Mwarandus Lab, your trusted partner for innovative solutions and we are passionate about leveraging technology to drive meaningful change and deliver exceptional results for our clients. Our dedicated team of professionals combines expertise, creativity, and attention to detail to bring your ideas to life. Whether you're an individual, a startup, or an established business, we have the skills and knowledge to meet your specific needs.
 </div>
-![MyLogo](Images/cover.png){: width="Auto" height="auto"}
+![My Logo](Images/cover.png)
 
 <!--
 **MwarandusLab/MwarandusLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
