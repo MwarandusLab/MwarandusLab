@@ -4,43 +4,44 @@
 <img src="Images/cover1.png" alt="MyLogo" width="100%">
 <table>
   <tr>
-    <th colspan="2">Services We Offer</th>
+    <th colspan="2"><h2><b>Services We Offer</b></h2></th>
   </tr>
   <tr>
-    <td>Website Development</td>
+    <td><b>Website Development</b></td>
     <td>We specialize in creating engaging and user-friendly websites tailored to your unique requirements. Our experienced web developers utilize the latest technologies and best practices to build responsive, visually stunning, and functional websites that leave a lasting impression.</td>
   </tr>
   <tr>
-    <td>Project Documentation</td>
+    <td><b>Project Documentation</b></td>
     <td>Clear and comprehensive documentation is essential for the success of any project. Our meticulous approach ensures that every aspect of your project is documented accurately, including specifications, workflows, and guidelines. With our documentation services, you can streamline collaboration, facilitate knowledge transfer, and maintain project continuity.</td>
   </tr>
   <tr>
-    <td>Circuit Design & Simulation</td>
+    <td><b>Circuit Design and Simulation</b></td>
     <td>From simple electronic circuits to complex systems, we excel in designing and simulating circuits to meet your specific objectives. Whether you need a prototype for a new product or a custom circuit for your project, our experts utilize advanced tools and techniques to deliver reliable and efficient solutions.</td>
   </tr>
   <tr>
-    <td>Payment Integrations for Mpesa</td>
+    <td><b>Payment Integrations for Mpesa</b></td>
     <td>We understand the importance of seamless payment processing for businesses. With our expertise in integrating Mpesa, we enable you to accept mobile payments securely and efficiently, providing convenience to your customers and enhancing your revenue streams.</td>
   </tr>
   <tr>
-    <td>Internet of Things (IoT)</td>
+    <td><b>Internet of Things (IoT)</b></td>
     <td>Embrace the power of IoT with our comprehensive IoT solutions. We assist you in leveraging connected devices, sensors, and data analytics to optimize processes, enhance decision-making, and unlock new possibilities for your business. Experience the transformative potential of IoT in your industry.</td>
   </tr>
   <tr>
-    <td>Bring Your Idea to Life</td>
+    <td><b>Bring Your Idea to Life</b></td>
     <td>Have a brilliant idea but need assistance in turning it into a reality? Our team of experts is here to guide you through every step of the process. From conceptualization and design to prototyping and implementation, we provide comprehensive support to bring your projects to life.</td>
   </tr>
   <tr>
-    <td>Hardware Repair and Maintenance</td>
+    <td><b>Hardware Repair and Maintenance</b></td>
     <td>Hardware malfunctions can disrupt productivity and cause significant inconvenience. Our experienced technicians offer reliable hardware repair and maintenance services to keep your equipment running smoothly. We diagnose and resolve issues promptly, ensuring minimal downtime for your business.</td>
   </tr>
   <tr>
-    <td>Hardware Programming</td>
-    <td>Description of Service 8</td>
+    <td><b>Hardware Programming</b></td>
+    <td>Unlock the full potential of your hardware devices with our hardware programming expertise. We specialize in programming microcontrollers, embedded systems, and other hardware components to enable advanced functionality and seamless integration with software applications.</td>
   </tr>
   <tr>
-    <td>Service 9</td>
-    <td>Description of Service 9</td>
+    <td><b>Product Review</b>
+</td>
+    <td>Make informed decisions about technology products with our unbiased and insightful product reviews. Our team thoroughly evaluates and analyzes various products, providing you with comprehensive assessments and recommendations to help you choose the right solutions for your needs.</td>
   </tr>
 </table>
 
