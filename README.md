@@ -62,7 +62,7 @@
   </table>
  </div>
 <div style="display: flex; justify-content: space-between;">
-  <p style="text-align: center;">  ✨ Videos of Some of the Projects are available at: <a href="https://www.facebook.com/profile.php?id=100066930931043"> Here📻</a></p>
+  <p style="text-align: center;">  ✨ Videos of Some the Projects are available at: <a href="https://www.facebook.com/profile.php?id=100066930931043"> Here📻</a></p>
 </div>
 <p>✨Contact us via: <a href="mailto:info@mwaranduslab.com">info@mwaranduslab.com</a></p>
 <p>✨Visit Our Website: <a href="http://www.mwarandusLab.com" target="_blank">www.mwarandusLab.com</a></p>
@@ -86,13 +86,24 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,gitlab,github,cloudflare,nodejs,django,vscode,wordpress,linux,figma&perline=21)](https://skillicons.dev)
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwarandusLab&count_private=true&theme=synthwave&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwarandusLab&hide_progress=false&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MwarandusLab&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
+<div align="left">
+<a target="_blank"
+href="https://https://www.linkedin.com/in/mwarandu-lab-90690b266/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
+href="mailto:info@mwaranduslab.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
+href="https://twitter.com/MwarandusLab"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<div/>
 
 
 
 
 <!-- **MwarandusLab/MwarandusLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwarandusLab&hide_progress=false&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
