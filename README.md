@@ -82,7 +82,7 @@
 - [x] `Database Systems` - MySQL, PostgreSQL, and SQLite
 ### Languages and Platform We Use
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,docker,git,gitlab,github,cloudflare,html,css,js,jquery,react,nodejs,py,django,vscode,wordpress,linux,figma&perline=21)](https://skillicons.dev)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwarandusLab&show_icons=true&theme=synthwave)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwarandusLab&show_icons=true&theme=merko)
 
 **MwarandusLab/MwarandusLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
