@@ -3,20 +3,32 @@
 </div>
 <img src="Images/cover1.png" alt="MyLogo" width="100%">
 
-<table style="width: 100%;">
-  <tr>
-    <th>We are Currently Working on</th>
-    <th>We are currently Learning</th>
-  </tr>
-  <tr>
-    <td style="text-align: left;">1. Building a 3-Axis CNC Machine</td>
-    <td style="text-align: left;">1. Mpesa Payment Integration</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">2. Building the Company Website</td>
-    <td style="text-align: left;">2. Self-Hosted Home Server</td>
-  </tr>
-</table>
+<div>
+  <table align="left" style="width: 100%;">
+    <tr>
+      <th>🔭 We are Currently Working on</th>
+      <th>🌱 We are currently Learning</th>
+    </tr>
+    <tr>
+      <td style="text-align: left;">1. Building a 3-Axis CNC Machine</td>
+      <td style="text-align: left;">1. Payment Integrations</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">2. Building the Company Website</td>
+      <td style="text-align: left;">2. Self-Hosted Home Server</td>
+    </tr>
+  </table>
+ </div>
+<div style="display: flex; justify-content: space-between;">
+  <p style="text-align: center;">  ✨ Videos of Some of the Projects are available at: <a href="https://www.facebook.com/profile.php?id=100066930931043"> Here📻</a></p>
+</div>
+<p>✨Contact us via: <a href="mailto:info@mwaranduslab.com">info@mwaranduslab.com</a></p>
+<p>✨Visit Our Website: <a href="http://www.mwarandusLab.com" target="_blank">www.mwarandusLab.com</a></p>
+
+
+
+
+
 
 
 <!--
