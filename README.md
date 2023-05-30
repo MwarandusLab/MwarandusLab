@@ -1,4 +1,5 @@
- <h2 style="text-align: center;">Hi there 👋 Welcome to Mwarandus Lab</h2>
+# <div align="center">Hi there 👋 Welcome to Mwarandus Lab</div>
+
 
 <!--
 **MwarandusLab/MwarandusLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
