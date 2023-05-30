@@ -80,8 +80,11 @@
 - [x] `Version Control` -  Git and GitHub
 - [x] `Web Development` - HTML, CSS, JavaScript, React, Angular, Node.js and Django
 - [x] `Database Systems` - MySQL, PostgreSQL, and SQLite
-### Languages and Platform We Use
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,docker,git,gitlab,github,cloudflare,html,css,js,jquery,react,nodejs,py,django,vscode,wordpress,linux,figma&perline=21)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,jquery,react,py&perline=21)](https://skillicons.dev)
+### Platform 
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,gitlab,github,cloudflare,nodejs,django,vscode,wordpress,linux,figma&perline=21)](https://skillicons.dev)
+### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwarandusLab&count_private=true&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwarandusLab&hide_progress=false&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
