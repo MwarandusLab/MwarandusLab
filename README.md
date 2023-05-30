@@ -72,7 +72,19 @@
 
 
 
-
+### Technologies We have worked with in Hardware
+- [x] `Microcontrollers` -  Arduino, Raspberry Pi, ESP8266, PIC, AVR, etc.
+- [x] `Sensors and Actuators` - Temperature and humidity sensors, motion sensors, proximity sensors, motors, servos, relays, etc
+- [x] `Communication Protocols` - I2C, SPI, UART, CAN, Ethernet, USB, MQTT, Bluetooth, Wi-Fi, etc.
+- [x] `Circuit Simulation` -  Proteus and Eagle
+- [x] `Power Electronics` - DC-DC converters, AC-DC converters, voltage regulators, power supplies, etc.
+- [x] `Embedded Systems Programming` - C/C++, Arduino IDE, Raspberry Pi GPIO, etc.
+- [x] `Internet of Things (IoT)` - IoT platforms, remote control, etc.
+- [x] `Hardware Debugging and Testing` - Oscilloscopes and multimeters
+### Technologies We have worked with in Software
+- [x] `Version Control` -  Git and GitHub
+- [x] `Web Development` - HTML, CSS, JavaScript, React, Angular, Node.js and Django
+- [x] `Database Systems` - MySQL, PostgreSQL, and SQLite, 
 <!--
 **MwarandusLab/MwarandusLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
