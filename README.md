@@ -67,11 +67,6 @@
 <p>✨Contact us via: <a href="mailto:info@mwaranduslab.com">info@mwaranduslab.com</a></p>
 <p>✨Visit Our Website: <a href="http://www.mwarandusLab.com" target="_blank">www.mwarandusLab.com</a></p>
 
-
-
-
-
-
 ### Technologies We have worked with in Hardware
 - [x] `Microcontrollers` -  Arduino, Raspberry Pi, ESP8266, PIC, AVR, etc.
 - [x] `Sensors and Actuators` - Temperature and humidity sensors, motion sensors, proximity sensors, motors, servos, relays, etc
@@ -84,8 +79,12 @@
 ### Technologies We have worked with in Software
 - [x] `Version Control` -  Git and GitHub
 - [x] `Web Development` - HTML, CSS, JavaScript, React, Angular, Node.js and Django
-- [x] `Database Systems` - MySQL, PostgreSQL, and SQLite, 
-<!--
+- [x] `Database Systems` - MySQL, PostgreSQL, and SQLite
+### Languages and Platform We Use
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,docker,git,gitlab,github,cloudflare,html,css,js,jquery,react,nodejs,py,django,vscode,wordpress,linux,figma&perline=19)](https://skillicons.dev)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwarandusLab&show_icons=true&theme=merko)
+
 **MwarandusLab/MwarandusLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
