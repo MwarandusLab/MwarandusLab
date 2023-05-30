@@ -3,6 +3,21 @@
 </div>
 <img src="Images/cover1.png" alt="MyLogo" width="100%">
 
+<table style="width: 100%;">
+  <tr>
+    <th>We are Currently Working on</th>
+    <th>We are currently Learning</th>
+  </tr>
+  <tr>
+    <td style="text-align: left;">1. Building a 3-Axis CNC Machine</td>
+    <td style="text-align: left;">1. Mpesa Payment Integration</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">2. Building the Company Website</td>
+    <td style="text-align: left;">2. Self-Hosted Home Server</td>
+  </tr>
+</table>
+
 
 <!--
 **MwarandusLab/MwarandusLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
