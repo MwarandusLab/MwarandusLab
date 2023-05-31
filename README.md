@@ -1,5 +1,5 @@
 # <div align="center">Hi there 👋 Welcome to Mwarandus Lab</div>
-<div  align="justify">Welcome to Mwarandus Lab, your trusted partner for innovative solutions and we are passionate about leveraging technology to drive meaningful change and deliver exceptional results for our clients. Our dedicated team of professionals combines expertise, creativity, and attention to detail to bring your ideas to life. Whether you're an individual, a startup, or an established business, we have the skills and knowledge to meet your specific needs.
+<div  align="justify">Mwarandus Lab is your trusted partner for innovative solutions and we are passionate about leveraging technology to drive meaningful change and deliver exceptional results for our clients. Our dedicated team of professionals combines expertise, creativity, and attention to detail to bring your ideas to life. Whether you're an individual, a startup, or an established business, we have the skills and knowledge to meet your specific needs.
 </div>
 <img src="Images/cover1.png" alt="MyLogo" width="100%">
 <table>
@@ -88,7 +88,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwarandusLab&count_private=true&theme=synthwave&show_icons=true)
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MwarandusLab&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwarandusLab&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
 <a target="_blank"
 href="https://https://www.linkedin.com/in/mwarandu-lab-90690b266"><img
