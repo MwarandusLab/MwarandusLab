@@ -92,7 +92,7 @@
 <h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
 <a target="_blank"
-href="https://https://www.linkedin.com/in/mwarandu-lab-90690b266"><img
+href="http://www.linkedin.com/in/kheri-mwarandu-9a054319a/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="mailto:info@mwaranduslab.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
