@@ -56,7 +56,7 @@
       <td style="text-align: left;">1. Payment Integrations</td>
     </tr>
     <tr>
-      <td style="text-align: left;">2. Building the Company Website</td>
+      <td style="text-align: left;">2. </td>
       <td style="text-align: left;">2. Self-Hosted Home Server</td>
     </tr>
   </table>
