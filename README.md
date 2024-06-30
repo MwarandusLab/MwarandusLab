@@ -85,7 +85,7 @@
 ### Platform 
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,gitlab,github,cloudflare,nodejs,django,vscode,wordpress,linux,figma&perline=21)](https://skillicons.dev)
 ### Github Stats
-![MwarandusLab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwarandusLab&count_private=true&theme=synthwave&show_icons=true)
+![MwarandusLab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwarandusLab&count_private=true&theme=synthwave&show_icons=true,prs_merged_percentage)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwarandusLab&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
