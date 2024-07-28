@@ -52,12 +52,12 @@
       <th>🌱 We are currently Learning</th>
     </tr>
     <tr>
-      <td style="text-align: left;">1. Building a 3-Axis CNC Machine</td>
-      <td style="text-align: left;">1. Payment Integrations</td>
+      <td style="text-align: left;">1. Building MwarandusLab Website</td>
+      <td style="text-align: left;">1. Reverse Proxy with Nginx</td>
     </tr>
     <tr>
       <td style="text-align: left;">2. Building IoT Dashboard </td>
-      <td style="text-align: left;">2. Self-Hosted Home Server</td>
+      <td style="text-align: left;">2. Hosting Websites at Home</td>
     </tr>
   </table>
  </div>
