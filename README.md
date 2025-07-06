@@ -65,15 +65,16 @@
   <p style="text-align: center;">  ✨ Videos of Some the Projects are available at: <a href="https://www.facebook.com/profile.php?id=100066930931043"> Here📻</a></p>
 </div>
 <p>✨Contact us via: <a href="mailto:info@mwaranduslab.com">info@mwaranduslab.com</a></p>
-<p>✨Visit Our Website: <a href="http://www.mwarandusLab.com" target="_blank">www.mwarandusLab.com</a></p>
+<p>✨Visit Our Website: <a href="http://www.mwarandusLab.com" target="_blank">Comming Soon</a></p>
 
+<a href="https://u8views.com/github/MwarandusLab"><img src="https://u8views.com/api/v1/github/profiles/122610523/views/day-week-month-total-count.svg"></a>
 ### Technologies We have worked with in Hardware
 - [x] `Microcontrollers` -  Arduino, Raspberry Pi, ESP8266, PIC, AVR, etc.
 - [x] `Sensors and Actuators` - Temperature and humidity sensors, motion sensors, proximity sensors, motors, servos, relays, etc
-- [x] `Communication Protocols` - I2C, SPI, UART, CAN, Ethernet, USB, MQTT, Bluetooth, Wi-Fi, etc.
+- [x] `Communication Protocols` - I2C, SPI, UART, Ethernet, USB, MQTT, Bluetooth, Wi-Fi, etc.
 - [x] `Circuit Simulation` -  Proteus and Eagle
 - [x] `Power Electronics` - DC-DC converters, AC-DC converters, voltage regulators, power supplies, etc.
-- [x] `Embedded Systems Programming` - C/C++, Arduino IDE, Raspberry Pi GPIO, etc.
+- [x] `Embedded Systems Programming` - C/C++, Arduino IDE, Raspberry Pi, etc.
 - [x] `Internet of Things (IoT)` - IoT platforms, remote control, etc.
 - [x] `Hardware Debugging and Testing` - Oscilloscopes and multimeters
 ### Technologies We have worked with in Software
